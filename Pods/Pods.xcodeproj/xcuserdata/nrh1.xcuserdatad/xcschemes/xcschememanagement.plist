@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Moscapsule.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TrackingLocation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TrackingLocationTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TrackingLocationUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1521813621F2FF5C54CC0FA05FE42272</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5358B74E8472F342CDEBF79C621CCB2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9381F3A5F4F3D8A9A08973994C5B4634</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9AFE8A4295D353833EB0E90420B908D5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F459D9D9D60D97C078AAC7381EED105F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
